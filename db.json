@@ -7,16 +7,22 @@
       "reminder": true
     },
     {
-      "id": 3,
-      "text": "Hacer las compras",
-      "day": "Agosto 6 a las 9:00",
+      "id": 2,
+      "text": "Comer",
+      "day": "Agosto 5 a las 13:00",
       "reminder": false
     },
     {
-      "id": 4,
-      "text": "Investigar sobre Bootstrap",
-      "day": "Agosto 6 a las 19:00",
-      "reminder": false
+      "id": 3,
+      "text": "Dormir",
+      "day": "Agosto 5 a las 20:00",
+      "reminder": true
+    },
+    {
+      "text": "Ir a hacer pipí",
+      "day": "Septiembre 16 a las 19:00",
+      "reminder": false,
+      "id": 4
     }
   ]
 }
